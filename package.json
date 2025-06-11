@@ -1,0 +1,21 @@
+{
+  "name": "auto-transform",
+  "version": "1.0.0",
+  "description": "A simple translation API wrapper for Tencent Transmart",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "translation",
+    "tencent",
+    "transmart"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+} 
