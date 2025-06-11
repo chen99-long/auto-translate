@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-npm install auto-transform
+npm install chen99-easy-translate
 ```
 
 ## 使用方法

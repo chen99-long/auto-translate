@@ -1,5 +1,5 @@
 {
-  "name": "auto-translate",
+  "name": "chen99-easy-translate",
   "version": "1.0.0",
   "description": "A simple translation API wrapper for Tencent Transmart",
   "main": "dist/index.js",
